@@ -4,7 +4,7 @@ My name is Emanuel and I am a beginner developer.
 I currently search for oportunities in Data Analysis or Software Development.
 
 ##### Tools and Programming Languages:
-* JavaSript
+* JavaScript
 * Python
 * Power BI
 
