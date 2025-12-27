@@ -10,7 +10,7 @@ I currently search for oportunities in Data Analysis or Software Development.
 
 ##### Projetcs I have experince with:
 * Automations (RPA, Workflows)
-* Data Analyses
+* Data Analysis
 * Canvas Apps (Power Apps)
 <!--
 **Ind0minvS/Ind0minvS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
