@@ -3,12 +3,12 @@
 My name is Emanuel and I am a beginner developer. 
 I currently search for oportunities in Data Analysis or Software Development.
 
-##### Tools and Programming Languages:
+#### Tools and Programming Languages:
 * JavaScript
 * Python
 * Power BI
 
-##### Projetcs I have experince with:
+#### Projetcs I have experince with:
 * Automations (RPA, Workflows)
 * Data Analysis
 * Canvas Apps (Power Apps)
